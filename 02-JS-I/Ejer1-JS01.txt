@@ -1,0 +1,21 @@
+1)
+Variables: 
+	Las varibles son elementos que pueden almacenar datos. 
+	Los datos pueden ser de cualquier tipo, numero, string, boolean, entre otras.
+String:
+	Es un tipo de dato el cual almacena una cadena de caracteres, es decir, un texto por ejemplo; 'Hola mundo', y	 
+	siempre tienen que estar escritas con comillas.  
+Funciones:
+	Las funciones son como una especie de cápsula que van a contener una serie de codigo que luego vas a poder 
+	reutilizar cuando las necesites. Estas reciben como parametros argumentos, y tienen una  salida que te muestra 
+	el resultado del conjunto de codigo que escribiste dentro. 
+	Argunmentos=varibles que utiliza la funcion. Return=-comando que utilizamos para mostrar la salida de la función.
+ Declaraciones IF:
+	Las declaraciones IF funcionan como una serie de condiciones o una condicion  que se deben cumplir para que realizen
+	determinada respuesta a las acciones que nos interesan. Es decir Si (Condicion) Entonces.. Hago algo..
+Valores Booleanos:
+	Los valores booleanos son valores logicos que toma una variable, esta puede ser True(Verdadero) o False(Falso).
+
+		
+
+
