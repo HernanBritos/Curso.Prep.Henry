@@ -1,0 +1,15 @@
+Ejercicio 1 
+	FOR: Es una estructura repetitiva que sirve para evaluar determinadas condiciones, esta compuesta por 3 partes.
+	     Una variable la cual indica la repeticion del bucle, una condicion la cual hara que esta finalize el bucle, 
+	     y la ultima es la incrementacion de la variable para avanzar en el bucle.
+	Operador logico '&&':es una manera de controlar el valor el verdad que tienen las condiciones, en este caso para que 
+	las premisas sean verdaderas ambas tienen que ser verdad, solo basta con que una sea falsa que que la expresion 
+	completa arroje falso. Es el equivalente a la operacion Y(AND). 
+
+	Operador logico '||': es otra manera de controlar el valor de verdad que tienen las condiciones, en este caso para que 
+	las premisas sean verdades, basta con que una de las condiciones sea verdadera sin importa la otra. Esto arroja falso 
+	solo cuando ambas condiciones sean falsas. Es el equivalente a la operacion O(OR). 
+
+	Operador logico '!' : es la operacion que se realiza para negar una condicion, es decir, si la condicion es verdadera,
+	al utilizar este operador sera falso, ya que devuelve el valor booleano opuesto al que arroja la condicion principal. 
+	Es la negacion de una premisa (NOT). 
