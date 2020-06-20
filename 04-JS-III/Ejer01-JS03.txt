@@ -1,0 +1,3 @@
+Ejercicio 1 
+	Arrays: Son estructuras de datos donde podemos almacenar diversos elementos de cualquier tipo, por ejemplo, numeros, letras,
+		textos, otras arrays, direcciones de datos, etc. Se puede acceder mediante la indicacion de sus indices. 
