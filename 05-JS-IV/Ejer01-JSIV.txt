@@ -1,0 +1,13 @@
+Ejercicio 01
+	objetos: son estructuras de datos que almacenan informacion. Puede almacenar diferentes tipos de datos
+		para que luego se puedan acceder a ellas.
+	Propiedades: son los elementos que tienen los objetos mediante los cuales se peude accerder al valor de
+		    los datos que estan almacenados en los objetos. 
+	Metodos: Son funciones que se almancenan en los objetos los cuales realizan una operacion y nos devuelve 
+		un resultado. 
+	Bucle for..in: Es una manera alternativa para recorrer una estructura de datos.
+		       Declararemos una variable, la palabra clave in y el nombre del objeto.
+		       Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+	Notacion de puntos: Con la notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave.
+	Notacion de corchetes: es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o número,
+				 o una variable que apunte a una cadena o número. Se puede llamar a cada clave envolviéndola con comillas.
