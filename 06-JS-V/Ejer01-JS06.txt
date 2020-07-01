@@ -1,0 +1,4 @@
+Prototype: es una propiedad privada que tienen los objetos que mantienen enlace con otro objeto el cual es el prototipo.
+		es la manera de utilizar la herencia de propiedades entre objetos. 
+Constructors (de Clases): Son las funciones que utilizamos para la creacion de objetos con misma propiedades, 
+			esto nos facilita el uso posterior de las funciones de los objetos. 
